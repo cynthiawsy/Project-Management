@@ -1,0 +1,306 @@
+<mxfile host="app.diagrams.net" modified="2020-08-20T13:11:20.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YDHJOTIy_V00UIUkTDuw" version="13.6.4" type="github">
+  <diagram id="bae71807-a52c-3fbf-013b-76b9de06c169" name="Page-1">
+    <mxGraphModel dx="1166" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=0;exitY=0;entryX=1;entryY=0.5;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="413" />
+              <mxPoint x="445" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=0.5;exitY=0;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0;entryX=0;entryY=0.5;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=1;exitY=1;entryX=0;entryY=0.5;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpSize=6;html=1;exitX=0;exitY=1;entryX=1;entryY=0.5;shadow=0;startArrow=none;startFill=0;startSize=6;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=13;" parent="1" source="2" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Inventory Management System" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="490" y="350" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Stakeholder Group" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="750" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="309" as="sourcePoint" />
+            <mxPoint x="250" y="309" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="339" as="sourcePoint" />
+            <mxPoint x="250" y="339" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="369" as="sourcePoint" />
+            <mxPoint x="250" y="369" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="399" as="sourcePoint" />
+            <mxPoint x="250" y="399" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="60" as="sourcePoint" />
+            <mxPoint x="670" y="60" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="90" as="sourcePoint" />
+            <mxPoint x="670" y="90" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="119" as="sourcePoint" />
+            <mxPoint x="670" y="119" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="149" as="sourcePoint" />
+            <mxPoint x="670" y="149" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="179" as="sourcePoint" />
+            <mxPoint x="670" y="179" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="209" as="sourcePoint" />
+            <mxPoint x="670" y="209" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="195" as="sourcePoint" />
+            <mxPoint x="990" y="195" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="225" as="sourcePoint" />
+            <mxPoint x="990" y="225" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="254" as="sourcePoint" />
+            <mxPoint x="990" y="254" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="284" as="sourcePoint" />
+            <mxPoint x="990" y="284" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="314" as="sourcePoint" />
+            <mxPoint x="990" y="314" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="344" as="sourcePoint" />
+            <mxPoint x="990" y="344" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="420" as="sourcePoint" />
+            <mxPoint x="1020" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="450" as="sourcePoint" />
+            <mxPoint x="1020" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="479" as="sourcePoint" />
+            <mxPoint x="1020" y="479" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="509" as="sourcePoint" />
+            <mxPoint x="1020" y="509" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="539" as="sourcePoint" />
+            <mxPoint x="1020" y="539" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="569" as="sourcePoint" />
+            <mxPoint x="1020" y="569" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="575" as="sourcePoint" />
+            <mxPoint x="590" y="575" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="605" as="sourcePoint" />
+            <mxPoint x="590" y="605" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="634" as="sourcePoint" />
+            <mxPoint x="590" y="634" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="664" as="sourcePoint" />
+            <mxPoint x="590" y="664" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="694" as="sourcePoint" />
+            <mxPoint x="590" y="694" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="724" as="sourcePoint" />
+            <mxPoint x="590" y="724" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="495" as="sourcePoint" />
+            <mxPoint x="270" y="495" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="525" as="sourcePoint" />
+            <mxPoint x="270" y="525" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="554" as="sourcePoint" />
+            <mxPoint x="270" y="554" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="584" as="sourcePoint" />
+            <mxPoint x="270" y="584" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="614" as="sourcePoint" />
+            <mxPoint x="270" y="614" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="Stakeholder" style="endArrow=none;html=1;shadow=0;strokeWidth=2;fontSize=13;" parent="1" edge="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="644" as="sourcePoint" />
+            <mxPoint x="270" y="644" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
